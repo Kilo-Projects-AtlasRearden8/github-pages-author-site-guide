@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ffffff"/><stop offset="100%" stop-color="#f3f4f6"/></linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="#f6f8fa"/>
+  <rect x="40" y="40" width="560" height="280" rx="12" fill="url(#g)" stroke="#d1d5da" stroke-width="1"/>
+  <rect x="40" y="40" width="560" height="56" rx="12" fill="#ffffff"/>
+  <rect x="56" y="56" width="120" height="24" rx="4" fill="#eaeef2"/>
+  <rect x="192" y="56" width="40" height="24" rx="4" fill="#eaeef2"/>
+  
+    <g transform="translate(90, 130)">
+      <rect width="300" height="100" rx="8" fill="#ffffff" stroke="#d1d5da" stroke-width="1.5"/>
+      <rect x="30" y="22" width="120" height="34" rx="6" fill="#238636"/>
+      <rect x="170" y="22" width="100" height="34" rx="6" fill="#fafbfc"/>
+      <text x="220" y="44" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#57606a">Sign up</text>
+      <text x="170" y="40" text-anchor="start" font-family="system-ui, sans-serif" font-size="13" fill="#24292e">Sign in</text>
+    </g>
+  
+  <text x="72" y="268" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="17" font-weight="600" fill="#24292e">GitHub homepage</text>
+  <text x="72" y="296" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#57606a">Sign in or create an account</text>
+  <text x="568" y="304" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#959da5" text-anchor="end">Placeholder screenshot</text>
+</svg>
